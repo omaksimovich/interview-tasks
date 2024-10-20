@@ -52,3 +52,10 @@ Implement a simple queue that supports `publish` and `consume` operations.
 **Description:**  
 Implement a basic linked list with standard operations like insertion, deletion, and traversal.  
 **Language:** Any
+
+---
+
+### 7. Is valid palindrome
+**Description:**  
+Write a function that tests input string.  
+**Language:** Java
